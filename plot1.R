@@ -1,7 +1,7 @@
 ## this is part 1 (of 4) of the first assignment of the 
 ## Getting and Cleaing Data class on Coursera 
 ## more comments in the markup file in the assignment's 
-## repository on github
+## repository on github https://github.com/dandybits/ExData_Plotting1.git
 ## to execute place file in R working directory and run:
 ##    source("plot1.R")
 ##    plot1()
